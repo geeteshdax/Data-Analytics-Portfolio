@@ -1,4 +1,4 @@
-# Sql-business-case-analysis
+# Sql Business Case Analysis
 This project focuses on answering common business questions using SQL on transcational sales data.
 The analysis demonstrates how SQL can be used to evaluate revenue performance, customer contribution, sales trend to support data-driven decision making.
 
