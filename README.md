@@ -8,4 +8,4 @@ This repository contains three data analytics projects showcasing:
 # Projects
 1. [ Retail Business Performance Analysis](https://github.com/Geet232/Data-Analytics-Portfolio/tree/main/real-world-retail-profitability-analysis)
 2. [ SQL Business Case Analysis](https://github.com/Geet232/Data-Analytics-Portfolio/tree/main/sql-business-case-analysis)
-3. real-world-retail-profitability-analysis
+3. [real-world-retail-profitability-analysis](https://github.com/Geet232/Data-Analytics-Portfolio/tree/main/real-world-retail-profitability-analysis)
