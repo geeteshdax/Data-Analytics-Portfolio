@@ -1,4 +1,4 @@
-# Business Performance Analysis
+# Retail Business Performance Analysis
 This project analyzes sales data to understand overall business performance, identify key revnue drivers and observe sales trend over time. 
 The goal is to support data-driven decisions related to inventory focus and performance monitoring.
 
