@@ -1,5 +1,5 @@
-# Retail Business Performance Analysis
-This project analyzes retail sales data to understand overall business performance, identify key revnue drivers and observe sales trend over time. 
+# Business Performance Analysis
+This project analyzes sales data to understand overall business performance, identify key revnue drivers and observe sales trend over time. 
 The goal is to support data-driven decisions related to inventory focus and performance monitoring.
 
 # Business Questions
@@ -8,7 +8,7 @@ The goal is to support data-driven decisions related to inventory focus and perf
 3. How does revenue change over time?
 
 # Dataset
-- Retail sales dataset sourced from Kaggle
+- Sales dataset sourced from Kaggle
 - Structured transactional sales data
 - Includes product, category, quantity, price, and date information
 
